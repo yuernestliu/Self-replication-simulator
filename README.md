@@ -1,6 +1,8 @@
 # Self-replication-simulator
 Code for the model of self-replicating chemical reaction system, published in the Journal of Biological Chemistry
+
 ================================================
+
 
 This is the simulator of the self-replication model. You can download it, extract it, and then run it on your own computer.
 
