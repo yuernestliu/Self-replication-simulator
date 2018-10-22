@@ -1,5 +1,5 @@
 # Self-replication-simulator
-Code for the model of self-replicating chemical reaction system, published in the Journal of Biological Chemistry
+Code for the model of self-replicating chemical reaction system. The paper is published in the Journal of Biological Chemistry.
 
 ================================================
 
