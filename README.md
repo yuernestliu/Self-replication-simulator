@@ -1,10 +1,10 @@
 # Self-replication-simulator
-Code for the model of self-replicating chemical reaction system. The paper is published in the Journal of Biological Chemistry.
+The zip file contains the code for the model of self-replicating chemical reaction system. The corresponding paper is published in the Journal of Biological Chemistry.
 
 ================================================
 
 
-This is the simulator of the self-replication model. You can download it, extract it, and then run it on your own computer.
+You can download the zip file, extract it, and then run it on your own computer.
 
 Launch MATLAB (at least version R2017b), set the current path to the extracted folder.
 
